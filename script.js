@@ -34,7 +34,7 @@ function showData(item) {
         <div class="text-section">
             <h3>${name}</h3>
             <div class="dsc">${dsc} <br></div>
-            <div class="price"><span>Price: </span> ${price}</div>
+            <div class="price"><span>Price: </span> $${price}</div>
             <div class="rating"><span>Rating: </span> ${rating}</div>
         </div>
    `;

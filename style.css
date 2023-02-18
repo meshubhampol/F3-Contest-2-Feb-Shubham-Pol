@@ -24,7 +24,7 @@
     box-shadow: 1px 2px 9px -5px;
     border-radius: 10px;
     width: 22%;
-    height: 330px;
+    height: 320px;
     display: flex;
     flex-direction: column;
     text-align: left;
@@ -86,6 +86,7 @@
 .fade {
     opacity: 0.3;
 }
+
 .text {
     position: fixed;
     top: 50%;
